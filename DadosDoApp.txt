@@ -1,0 +1,2 @@
+Nome do App: Notificador UFG
+Domínio: notificadorufg.com.br
