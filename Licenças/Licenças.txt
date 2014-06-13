@@ -1,0 +1,3 @@
+Foi utilizado uma template do Bootstrap como base do projeto.
+A template utilizada é gratuita permite a modificação e utilização para fins acadêmicos.
+Todas as imagens utilizadas, que não sejam do aplicativo, vieram com a template que serviu de base.
